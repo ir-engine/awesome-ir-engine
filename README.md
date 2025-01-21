@@ -12,7 +12,8 @@
 - [Launched Products](#launched-products)
 
 ## Typescript Documentation
-Typescript docs currently under construction
+
+[Developer Docs](https://github.com/ir-engine/developer-docs)
 
 ## Developer Tools
 
