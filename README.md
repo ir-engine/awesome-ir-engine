@@ -38,7 +38,7 @@ Add a bubble object emitter to your scene **_(out of date)_**
 
 4 player table tennis / pong hybrid game **_(out of date)_**
 
-## Community Projects
+## Community Creations
 
 ### [EtherealCraft - AidanCaruso](https://github.com/AidanCaruso/etherealcraft)
 
