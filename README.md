@@ -2,6 +2,8 @@
 
 [Infinite Reality Engine](https://github.com/ir-engine/ir-engine) is the free and open source WebXR engine that powers [iR studio](https://preview.ir.world).
 
+<img src="https://github.com/user-attachments/assets/2b3b84a3-25cf-41a5-9721-6519cb89b12a" width="128">
+
 ## Table of Contents
 - [Contents](#table-of-contents)
 - [Typescript API Docs](#typescript-documentation)
