@@ -9,6 +9,7 @@
 - [Typescript API Docs](#typescript-documentation)
 - [Developer Tools](#developer-tools)
 - [Community Creations](#community-creations)
+- [Launched Products](#launched-products)
 
 ## Typescript Documentation
 Typescript docs currently under construction
