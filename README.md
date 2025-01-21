@@ -35,28 +35,38 @@ Add a bubble object emitter to your scene **_(out of date)_**
 
 4 player table tennis / pong hybrid game **_(out of date)_**
 
-## Community Creations
+## Community Projects
 
-### [EtherealCraft](https://github.com/AidanCaruso/etherealcraft)
+### [EtherealCraft - AidanCaruso](https://github.com/AidanCaruso/etherealcraft)
 
 Networked voxel terrain
 
 <img src="https://github.com/user-attachments/assets/dfe2511e-16b0-432a-abf4-8eb375a94ab3" width="256">
 
-### [MocapBakery](https://github.com/AidanCaruso/mocapbakery)
+### [MocapBakery - AidanCaruso](https://github.com/AidanCaruso/mocapbakery)
 
 Use motion capture to record and export avatar animation clips
 
 <img src="https://github.com/user-attachments/assets/ae063ce3-f02a-4dc5-90fa-9ba07b990603" width="256">
 
-### [Catan](https://github.com/HexaField/catan)
+### [Catan - HexaField](https://github.com/HexaField/catan)
 
 Multiplayer Settlers of Catan in 3D
 
 <img src="https://github.com/user-attachments/assets/11138581-4288-4c52-9e7c-0acdcdd77104" width="256">
 
-### [Simple API](https://github.com/HexaField/ir-simple-api)
+### [Simple API - HexaField](https://github.com/HexaField/ir-simple-api)
 
 A lightweight p2p signaling server with client react hooks
+
+## Launched Products
+
+### [PuttClub](https://puttclub.io/)
+
+MiniGolf on a lost Caribbean Island
+
+<img src="https://github.com/user-attachments/assets/f9dd002a-f6e4-4e63-8a95-9d83c0f01eaf" width="256">
+
+
 
 
