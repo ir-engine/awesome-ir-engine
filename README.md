@@ -63,6 +63,10 @@ Multiplayer Settlers of Catan in 3D
 
 A lightweight p2p signaling server with client react hooks
 
+### [ADAM Template - Hexafield](https://github.com/HexaField/adam-template)
+
+Uses the Coasys/ADAM API & launcher for decentralized identity and P2P signaling.
+
 ## Launched Products
 
 ### [PuttClub](https://puttclub.io/)
