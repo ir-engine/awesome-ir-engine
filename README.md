@@ -63,9 +63,11 @@ Multiplayer Settlers of Catan in 3D
 
 A lightweight p2p signaling server with client react hooks
 
-### [ADAM Template - Hexafield](https://github.com/HexaField/adam-template)
+### [Conjure - Hexafield](https://github.com/HexaField/conjure)
 
-Uses the Coasys/ADAM API & launcher for decentralized identity and P2P signaling.
+Decentralized immersive collaboration powered by iR Engine and ADAM/Holochain
+
+<img src="https://github.com/user-attachments/assets/1fd22f47-85af-4562-b7b1-f51606022680" width="360">
 
 ## Launched Products
 
