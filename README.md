@@ -68,15 +68,3 @@ A lightweight p2p signaling server with client react hooks
 Decentralized immersive collaboration powered by iR Engine and ADAM/Holochain
 
 <img src="https://github.com/user-attachments/assets/1fd22f47-85af-4562-b7b1-f51606022680" width="360">
-
-## Launched Products
-
-### [PuttClub](https://puttclub.io/)
-
-MiniGolf on a lost Caribbean Island
-
-<img src="https://github.com/user-attachments/assets/f9dd002a-f6e4-4e63-8a95-9d83c0f01eaf" width="360">
-
-
-
-
